@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Nihal Yadav!
  🚀 Passionate about building cool apps with Flutter.<br>
  🛠️ Currently learning GoLang and diving into backend development.<br>
- 🎯 Always learning, always coding.<br>📫 Let's connect and create something awesome!
+ 📫 Let's connect and create something awesome!
 
 
 ## 🌐 Socials:
